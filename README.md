@@ -26,7 +26,7 @@ $ composer require gofabian/negotiation-middleware
 Requisitos configuración, verificar el archivo composer.js
 puedes realizar también una instalación global apartir del mismo archivo usando la siguiente line de comando.
 
-<pre>$ composer update</pre>
+<pre>$ composer install o componser update</pre>
 
 
 Creditos a tuupola.
